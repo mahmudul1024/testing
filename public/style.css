@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(11, 12, 12);
+    
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.Container{
+    max-width: 1000px;
+    background-color:white;
+    margin: 0 auto;
+    padding: 20px;
+    
+
+}
+
+.profile_image{
+    width:100px ;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+
+}
+
+.header_bio{
+    float: left;
+    padding: 30px;
+
+}
+
+.header_contact{
+    float: right;
+    padding: 30px;
+}
+
+.header_contact a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+
+}
+
+.header_contact a:hover{
+    text-decoration: underline;
+    color: tomato;
+
+}
+
+.div_clear{
+    clear: both;
+}
+
+hr{
+    border: 3px solid grey;
+    width: 100%;
+    margin: 20px auto;
+}
+
+/*  peronal section..................
+    start.......................... */
+
+
+
+.content{
+    margin-bottom: 30px;
+
+}
+
+.left{
+    width: 15%;
+    float: left;
+
+}
+
+.right{
+    width: 70%;
+    float: left;
+
+}
+
+.middle{
+    width: 15%;
+    float: left;
+}
+
+.common_hr{
+    border: 1px solid grey;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+    font-weight: bold;
+
+}
+
+/*  Experience section..................
+    start.......................... */
+
+
+
+
+h1 ,h2, h3 ,h4 ,h5{
+
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+
+
+/*  Experience section..................
+    end.......................... */
+
+/*  Educational section..................
+    start.......................... */
+
+.edu_template_left{
+    float: left;
+    width: 45%;
+
+}
+
+.edu_template_right{
+    float: right;
+    width: 45%;
+
+}
+
+.bottom_container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.bottom_container a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.bottom_container p{
+    color: white;
+    margin-top: 20px;
+}
+
+.fa-briefcase{
+    font-size: 30px ;
+    color: grey;
+    text-align: center;
+    width: 100%;
+}
+
+.fa-graduation-cap{
+    font-size: 30px ;
+    color: grey;
+    text-align: center;
+    width: 100%;
+    
+
+}
+
+.fa-circle-info{
+    font-size: 30px ;
+    color: grey;
+    text-align: center;
+    width: 100%;
+
+}
+
+
