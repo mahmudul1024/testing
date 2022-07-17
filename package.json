@@ -1,7 +1,7 @@
 {
   "name": "css_prac",
   "version": "0.1.0",
-  "homepage": "https://github.com/mahmudul1024/ Practice_css/css_prac/public/index.html ",
+  "homepage": "https://mahmudul1024.github.io/testing/ ",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
